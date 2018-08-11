@@ -1,4 +1,10 @@
 ---
-title: Contact
+title: "Contact"
+date: 2018-07-19T15:51:55-04:00
+menu:
+  main:
+    name: Contact ✉️
+    weight: 2
 ---
-Contact Page Copy Here.
+
+We live here!
