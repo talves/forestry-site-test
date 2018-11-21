@@ -1,6 +1,6 @@
 ---
 title: About Page
-date: 2018-07-19 18:43:22 +0000
+date: ''
 weather_location: New York, NY, USA
 menu:
   main:
